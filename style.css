@@ -1,0 +1,23 @@
+body {
+    width: 100%;
+}
+.formForLink {
+    margin: 0 50px;
+}
+.wrapperGallery {
+    width: 80%
+}
+.gallery {
+    display: flex;
+    /*flex-direction: revert;*/
+}
+.item {
+    margin: 20px 20px;
+}
+.item img {
+    width: 250px;
+    height: auto;
+}
+.girlsButtons {
+    margin: 0 50px;
+}
